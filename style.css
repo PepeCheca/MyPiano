@@ -111,7 +111,7 @@ header .volumen {
 
 .teclas-piano .negra.active {
   color: #03f317;
-  background: linear-gradient(to bottom,#000, #434343 );
+  background: linear-gradient(to bottom, #000, #434343);
 }
 
 .teclas-piano .blanca {
@@ -127,7 +127,6 @@ header .volumen {
   box-shadow: inset -5px 5px 20px rgba(0, 0, 0, 0.1);
   background: linear-gradient(#fff 0%, #eee 100%);
 }
-
 
 .teclas-piano span {
   position: absolute;
